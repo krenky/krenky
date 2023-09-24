@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hello, my name is Sergey Nazarov, I'm a bachelor's student at [TISBI Management University](https://www.tisbi.ru/). I am a full-stack software developer.  My technology stack involves C#/ASP.Net core, EF Core, Hibernate, PostgresSQL, javascript. 
 
-- 🔭 I currently work for [Bars Group](https://bars.group/)
+- 🔭 I currently work for [Vitacore](https://vitacore.ru/)
 - 💬 Brainstorm with me over tech, algorithms, career, and music
 - 📝 [Resume](https://kazan.hh.ru/resume/b55e7f77ff0860e9670039ed1f6d626431344c)
 
